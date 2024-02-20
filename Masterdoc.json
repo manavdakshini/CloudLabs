@@ -2,7 +2,6 @@
     {
         "Name": "CloudLabs: Test Env for Inline Validation",
         "Language": "English",
-        "BaseURL": "https://github.com/manavdakshini/CloudLabs",
         "Files": [
             {
                 "RawFilePath": "https://raw.githubusercontent.com/manavdakshini/CloudLabs/main/GettingStarted.md",
