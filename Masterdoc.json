@@ -1,13 +1,32 @@
 [
-  {
-    "Name": "CloudLabs",
-    "Language": "English",
-    "BaseURL": "https://github.com/manavdakshini/CloudLabs",
-    "Files": [
-      {
-        "RawFilePath": "https://raw.githubusercontent.com/manavdakshini/CloudLabs/main/Getting%20Started.md",
-        "Order": 1
-      }
-    ]
-  }
+    {
+        "Name": "CloudLabs: Test Env for Inline Validation",
+        "Language": "English",
+        "BaseURL": "https://github.com/manavdakshini/CloudLabs",
+        "Files": [
+            {
+                "RawFilePath": "https://raw.githubusercontent.com/manavdakshini/CloudLabs/main/GettingStarted.md",
+                "Order": 1
+            },
+            {
+                "RawFilePath": "https://raw.githubusercontent.com/manavdakshini/CloudLabs/main/CreateEC2.md",
+                "Order": 2
+            },
+            {
+                "RawFilePath": "https://raw.githubusercontent.com/manavdakshini/CloudLabs/main/creates3.md",
+                "Order": 3,
+                "UnlockingRules": [
+                    {
+                        "UnlockDependency": "Validations",
+                        "UnlockCriteria": "Completion Percentage",
+                        "UnlockPercentageThreshold": 100,
+                        "DependentValidations": [
+                            "6c32922e-75c9-4519-9452-910680384fc1",
+                            "e6c0346a-a1fc-4fd5-a99c-8645a35897a5"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
 ]
