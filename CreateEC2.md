@@ -15,11 +15,11 @@ Follow below steps to create an EC2 Instance.
 
     ![](./images/launch.png)
 
-4. Create the Instance with the name odl-user-**<inject key="CloudLabsDeploymentID" enableCopy="true" />**
+4. Create the Instance with the name odl-user-**<CloudLabsDeploymentID>**
 
     ![](./images/createec2.png)
 
-5. Create a key pair with name odl-user-**<inject key="CloudLabsDeploymentID" enableCopy="true" />**
+5. Create a key pair with name odl-user-**<CloudLabsDeploymentID>**
 
     ![](./images/keypair.png)
 
