@@ -10,7 +10,7 @@ Follow below steps to create an S3 Bucket.
 
     ![](./images/s302.png)
 
-3. Give bucket name as odl-user-<inject key="CloudLabsDeploymentID" enableCopy="true" />
+3. Give bucket name: 
 
     ![](./images/s301.png)
 
