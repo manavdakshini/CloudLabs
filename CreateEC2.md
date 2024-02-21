@@ -23,9 +23,9 @@ Follow below steps to create an EC2 Instance.
 
     ![](./images/keypair.png)
 
-<validation step="6c32922e-75c9-4519-9452-910680384fc1" />
+<validation step="e1be5993-a3d8-46f5-87de-c82ba20c8359" />
 
-<validation step="e6c0346a-a1fc-4fd5-a99c-8645a35897a5" />
+<validation step="037c04ec-fd7d-450f-b159-a75f54a700ab" />
 
 
 
