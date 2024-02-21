@@ -15,13 +15,15 @@ Follow below steps to create an EC2 Instance.
 
     ![](./images/launch.png)
 
-4. Create the Instance with the name:
+4. Create the Instance with the name: **<inject key="DBUserName" enableCopy="true" />**
 
     ![](./images/createec2.png)
 
-5. Create a key pair with name: 
+5. Create a key pair with name: **<inject key="DBUserName" enableCopy="true" />**
 
     ![](./images/keypair.png)
+
+# Validation 
 
 <validation step="e1be5993-a3d8-46f5-87de-c82ba20c8359" />
 
