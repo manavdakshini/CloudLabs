@@ -10,7 +10,7 @@ Follow below steps to create an S3 Bucket.
 
     ![](./images/s302.png)
 
-3. Give bucket name: 
+3. Give bucket name: **<inject key="CommonName" enableCopy="true" />**
 
     ![](./images/s301.png)
 
